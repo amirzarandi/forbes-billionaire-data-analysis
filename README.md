@@ -1,6 +1,6 @@
 # forbes-billionaire-data-analysis
 
-# **Context** 
+## **Context** 
 
 Forbes is a media and publishing company based in the United States that is controlled by Integrated Whale Media Investments and the Forbes family. It is well-known for its magazine and rankings of billionaires and sports teams.
 My main goal was to analyze the net worth of Forbes Top Billionaires 2020, and draw insights.
